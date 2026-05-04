@@ -8,7 +8,7 @@ The internship focused on:
 - Writing efficient code and implementing algorithms
 - Building practical solutions for real-world applications
 
-[View Certificate on LinkedIn]((https://www.linkedin.com/posts/nandini-karella-a186342b1_internship-completion-certificate-python-ugcPost-7457097067606376448-Ch9N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsFq7QBsTnqTH6AkJtOXY9pZAiAo3-xxKQ))
+[View Certificate on LinkedIn](https://www.linkedin.com/posts/nandini-karella-a186342b1_internship-completion-certificate-python-ugcPost-7457097067606376448-Ch9N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsFq7QBsTnqTH6AkJtOXY9pZAiAo3-xxKQ)
 
 ---
 
